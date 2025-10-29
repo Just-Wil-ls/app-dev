@@ -10,6 +10,8 @@ My First Repository
 - Open-World
 - Great Storyline
 - Amazing Overall Map Visuals
+  ![God of War(2018)](https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg)
+  [GodofWar](https://www.britannica.com/topic/God-of-War)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Top 2
 2. Hades
@@ -17,10 +19,16 @@ My First Repository
 - Hack and Slash
 - Quite good storyline
 - Amazing gameplay
+  ![Hades](https://images.ctfassets.net/5owu3y35gz1g/221gU3J0H5urRoHsNbYDpf/910e01518b59323f8624c1a5a2001ff5/Hades_Rating_Cover__1_.png?w=225&h=310&q=100)
+  [Hades](https://www.supergiantgames.com/games/hades/)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Top 3
 3. Black Flag
 *'Assassin's Creed IV: Black Flag' is an action-adventure, stealth game set in an open world environment and played from a third-person perspective. The game features three main cities: Havana, Kingston, and Nassau, which reside under Spanish, British, and pirate influence, respectively.*
 - Open World Exploration
 - Amazing World Building
 - Great Storyline
+  ![Assassin's Creed IV: Black Flag](https://static.wikia.nocookie.net/assassinscreed/images/6/6d/Assassin%27s_Creed_IV_Black_Flag.jpg/revision/latest?cb=20220912072218)
+  [BlackFlag](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_IV:_Black_Flag)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
