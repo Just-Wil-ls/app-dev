@@ -1,7 +1,7 @@
 # app-dev
 My First Repository
 
-#**My Top 3 Favorite Game**
+#**My Top 3 Favorite Game**#
 1. God Of War
    *God of War (also known as God of War (2018) or God of War IV) is the sequel to God of War III as well as a continuation of the canon God of War chronology. God of War is the eighth installment in the franchise overall.*
 2. Hades
