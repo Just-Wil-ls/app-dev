@@ -4,8 +4,8 @@ My First Repository
 # **My Top 3 Favorite Game :joy:**
 ## Games
 > Top 1
-### 1. God Of War
-*=='God of War'== (also known as God of War (2018) or God of War IV) is the sequel to God of War III as well as a continuation of the canon God of War chronology. God of War is the eighth installment in the franchise overall.*
+### 1. ==God Of War==
+*'God of War' (also known as God of War (2018) or God of War IV) is the sequel to God of War III as well as a continuation of the canon God of War chronology. God of War is the eighth installment in the franchise overall.*
 
 ![God of War(2018)](https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg)
 
