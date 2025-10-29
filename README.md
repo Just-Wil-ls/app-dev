@@ -66,16 +66,16 @@ My First Repository
 }
 ```
 
-Here's a sentence with a footnote. [^1]
+Dive in the Game. [^1]
 
-[^1]: This is the footnote.
+[^1]: Go back.
 
 ### My Great Heading {#custom-id}
 
 term
 : definition
 
-	~~The world is flat.~~
+~~The world is flat.~~
 
 
 I need to highlight these ==very important words==.
