@@ -47,9 +47,8 @@ My First Repository
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "Name of Each Main Character": "Zagreues, Kratos, Edward",
+  "age": 22, 1000, 22
 }
 ```
 
