@@ -1,11 +1,11 @@
 # app-dev
 My First Repository
 
-# **My Top 3 Favorite Game**
+# **My Top 3 Favorite Game :joy:**
 ## Games
 > Top 1
 ### 1. God Of War
-*'God of War' (also known as God of War (2018) or God of War IV) is the sequel to God of War III as well as a continuation of the canon God of War chronology. God of War is the eighth installment in the franchise overall.*
+*=='God of War'== (also known as God of War (2018) or God of War IV) is the sequel to God of War III as well as a continuation of the canon God of War chronology. God of War is the eighth installment in the franchise overall.*
 
 ![God of War(2018)](https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg)
 
@@ -40,15 +40,32 @@ My First Repository
 - More on [BlackFlag](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_IV:_Black_Flag)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| Syntax | Description |
+| Main Character Name | Age |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Kratos | Over 1000 Years old |
+| Zagreus | 22 |
+| Edward Kenway | 22 |
+
 
 ```
 {
-  "Name of Each Main Character": "Zagreues, Kratos, Edward",
+  "Name of Each Main Character": "Kratos, Zagreues, Edward",
   "age": 1000, 22, 22
 }
 ```
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+### My Great Heading {#custom-id}
+
+term
+: definition
+
+	~~The world is flat.~~
+
+  - [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
