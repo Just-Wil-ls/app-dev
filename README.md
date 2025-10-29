@@ -48,7 +48,7 @@ My First Repository
 ```
 {
   "Name of Each Main Character": "Zagreues, Kratos, Edward",
-  "age": 22, 1000, 22
+  "age": 1000, 22, 22
 }
 ```
 
