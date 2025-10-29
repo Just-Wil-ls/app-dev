@@ -14,7 +14,7 @@ My First Repository
 - Open-World
 - Great Storyline
 - Amazing Overall Map Visuals
-  [GodofWar](https://www.britannica.com/topic/God-of-War)
+- More on [GodofWar](https://www.britannica.com/topic/God-of-War)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Top 2
 2. Hades
@@ -26,7 +26,7 @@ My First Repository
 - Hack and Slash
 - Quite good storyline
 - Amazing gameplay
-  [Hades](https://www.supergiantgames.com/games/hades/)
+- More on [Hades](https://www.supergiantgames.com/games/hades/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Top 3
 3. Black Flag
@@ -38,6 +38,6 @@ My First Repository
 - Open World Exploration
 - Amazing World Building
 - Great Storyline
-  [BlackFlag](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_IV:_Black_Flag)
+- More on [BlackFlag](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_IV:_Black_Flag)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
