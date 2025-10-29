@@ -40,3 +40,16 @@ My First Repository
 - More on [BlackFlag](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_IV:_Black_Flag)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
