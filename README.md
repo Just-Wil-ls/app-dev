@@ -4,12 +4,16 @@ My First Repository
 # **My Top 3 Favorite Game :joy:**
 ## Games
 > Top 1
-### 1. ==God Of War==
+### 1. God Of War
 *'God of War' (also known as God of War (2018) or God of War IV) is the sequel to God of War III as well as a continuation of the canon God of War chronology. God of War is the eighth installment in the franchise overall.*
 
 ![God of War(2018)](https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg)
 
 
+- [x] Complete the Game 100%
+- [ ] Complete the Game 75%
+- [ ] Complete the Game 50%
+    
 - Open-World
 - Great Storyline
 - Amazing Overall Map Visuals
@@ -22,6 +26,10 @@ My First Repository
 ![Hades](https://images.ctfassets.net/5owu3y35gz1g/221gU3J0H5urRoHsNbYDpf/910e01518b59323f8624c1a5a2001ff5/Hades_Rating_Cover__1_.png?w=225&h=310&q=100)
 
 
+- [x] Complete the Game 100%
+- [ ] Complete the Game 75%
+- [ ] Complete the Game 50%
+
 - Hack and Slash
 - Quite good storyline
 - Amazing gameplay
@@ -33,6 +41,10 @@ My First Repository
 
 ![Assassin's Creed IV: Black Flag](https://static.wikia.nocookie.net/assassinscreed/images/6/6d/Assassin%27s_Creed_IV_Black_Flag.jpg/revision/latest?cb=20220912072218)
 
+
+- [x] Complete the Game 100%
+- [ ] Complete the Game 75%
+- [ ] Complete the Game 50%
 
 - Open World Exploration
 - Amazing World Building
@@ -65,7 +77,10 @@ term
 
 	~~The world is flat.~~
 
-  - [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+
+I need to highlight these ==very important words==.
+
+H~2~O
+
+X^2^
 
